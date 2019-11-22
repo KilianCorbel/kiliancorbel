@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://images.unsplash.com/photo-1574322401425-9510707bcc34?ixlib=rb-1.2.1");
+    url("https://images.unsplash.com/photo-1574302710204-f98aa2bac7ad?ixlib=rb-1.2.1");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://images.unsplash.com/photo-1574322401425-9510707bcc34?ixlib=rb-1.2.1") center center fixed;
+    url("https://images.unsplash.com/photo-1574302710204-f98aa2bac7ad?ixlib=rb-1.2.1") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://images.unsplash.com/photo-1574322401425-9510707bcc34?ixlib=rb-1.2.1") !important;
+      url("https://images.unsplash.com/photo-1574302710204-f98aa2bac7ad?ixlib=rb-1.2.1") !important;
   }
 }
