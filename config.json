@@ -1,0 +1,15 @@
+[
+ {
+  "username": "KilianCorbel",
+  "name": "Kilian Corbel",
+  "userimg": "https://images.unsplash.com/photo-1574302710204-f98aa2bac7ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+  "sort": "star",
+  "order": "asc",
+  "includeFork": false,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "linkedin": "https://www.linkedin.com/in/kilian-corbel-97657594/"
+ }
+]
